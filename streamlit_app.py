@@ -6,5 +6,5 @@ streamlit.text('Hyde')
 streamlit.text('Kelso')
 streamlit.text('Faiz')
 
-streamlit.header('Maybe not Hyde!')
+streamlit.text('OK! maybe not Hyde!')
 
